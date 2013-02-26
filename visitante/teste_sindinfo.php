@@ -40,7 +40,8 @@ if ($row_rs_empresa['csind_emp_id']<> NULL)
 				$valor = substr($f_contents[$registros],18,7); echo $valor; echo "<br />";
 				$colaborador = substr($f_contents[$registros],26); echo $colaborador; echo "<br />";
 				mysql_select_db($database_sindicato, $sindicato);//conexao com o banco
-				$sql = mysql_query("INSERT INTO bl_csind_contribuicao(csind_arq_id,csind_cont_cbo,csind_cont_admissao,csind_cont_valor,csind_cont_nome) VALUES($arq_id,'$cbo','$admissao',$valor,'$colaborador')"); echo $sql;//linha para cadastrar no banco de dados.
+				$sql = mysql_query("INSERT INTO bl_csind_contribuicao(csind_arq_id,csind_cont_cbo,csind_cont_admissao,csind_cont_valor,csind_cont_nome) VALUES($arq_id,'$cbo','$admissao',$valor,'$colaborador')");
+				echo $sql;//linha para cadastrar no banco de dados.
 				echo $f_contents[$registros]; echo "<br />";
 			}
 			
