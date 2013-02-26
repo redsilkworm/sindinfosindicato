@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_tipo_produto" value="name:tipo_prod_id;datatype:int,name:tipo_prod_descricao;datatype:string,name:tipo_prod_ativo;datatype:string" />
+	<infoitem key="UD_rsbl_produto" value="name:ass_id;datatype:int,name:tipo_prod_id;datatype:int,name:prod_descricao;datatype:int,name:prod_imagem;datatype:int,name:prod_situacao;datatype:int,name:prod_id;datatype:int" />
+	<infoitem key="UD_rs_tipo_produto1" value="name:tipo_prod_id;datatype:int,name:tipo_prod_descricao;datatype:string,name:tipo_prod_ativo;datatype:string" />
+</info>

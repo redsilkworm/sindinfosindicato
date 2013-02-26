@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_municipio" value="name:mun_id;datatype:int,name:mun_nome;datatype:string" />
+</info>

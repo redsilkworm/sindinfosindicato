@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="tNG_defTrigg.inc.php" server="//SPARTAKUS/sindicatos/" local="129812419264200640" remote="129812419260000000" />
+<file name="tNG_CheckTableField.class.php" server="//SPARTAKUS/sindicatos/" local="129812419263331780" remote="129812419260000000" />
+<file name="tNG_CheckUnique.class.php" server="//SPARTAKUS/sindicatos/" local="129812419263616030" remote="129812419260000000" />
+<file name="tNG_EmailRecordset.class.php" server="//SPARTAKUS/sindicatos/" local="129812419299521170" remote="129812419290000000" />
+<file name="tNG_MtmFakeRs.class.php" server="//SPARTAKUS/sindicatos/" local="129812419265232830" remote="129812419260000000" />
+<file name="tNG_DeleteFolder.class.php" server="//SPARTAKUS/sindicatos/" local="129812419394461110" remote="129812419390000000" />
+<file name="tNG_FieldCompare.class.php" server="//SPARTAKUS/sindicatos/" local="129812419283850190" remote="129812419280000000" />
+<file name="tNG_FileListRecordset.class.php" server="//SPARTAKUS/sindicatos/" local="129812419396248940" remote="129812419390000000" />
+<file name="tNG_MImageUpload.class.php" server="//SPARTAKUS/sindicatos/" local="129812419397521140" remote="129812419390000000" />
+<file name="tNG_EmailPageSection.class.php" server="//SPARTAKUS/sindicatos/" local="129812419299258480" remote="129812419290000000" />
+<file name="tNG_Download.class.php" server="//SPARTAKUS/sindicatos/" local="129812419394862740" remote="129812419390000000" />
+<file name="tNG_Email.class.php" server="//SPARTAKUS/sindicatos/" local="129812419298925570" remote="129812419290000000" />
+<file name="tNG_ChkForbiddenWords.class.php" server="//SPARTAKUS/sindicatos/" local="129812419283165490" remote="129812419280000000" />
+<file name="tNG_TidyContent.class.php" server="//SPARTAKUS/sindicatos/" local="129812419284676360" remote="129812419280000000" />
+<file name="tNG_LinkedTrans.class.php" server="//SPARTAKUS/sindicatos/" local="129812419264459850" remote="129812419260000000" />
+<file name="tNG_MuploadHelper.class.php" server="//SPARTAKUS/sindicatos/" local="129812419397946260" remote="129812419390000000" />
+<file name="tNG_CheckDetailRecord.class.php" server="//SPARTAKUS/sindicatos/" local="129812419282644380" remote="129812419280000000" />
+<file name="tNG_ThrowError.class.php" server="//SPARTAKUS/sindicatos/" local="129812419265871630" remote="129812419260000000" />
+<file name="tNG_CheckMasterRecord.class.php" server="//SPARTAKUS/sindicatos/" local="129812419282878820" remote="129812419280000000" />
+<file name="tNG_DeleteDetailRec.class.php" server="//SPARTAKUS/sindicatos/" local="129812419283604980" remote="129812419280000000" />
+<file name="tNG_Captcha.class.php" server="//SPARTAKUS/sindicatos/" local="129812419282354710" remote="129812419280000000" />
+<file name="tNG_DynamicMedia.class.php" server="//SPARTAKUS/sindicatos/" local="129812419395115680" remote="129812419390000000" />
+<file name="tNG_ManyToMany.class.php" server="//SPARTAKUS/sindicatos/" local="129812419264850570" remote="129812419260000000" />
+<file name="tNG_Redirect.class.php" server="//SPARTAKUS/sindicatos/" local="129812419265570040" remote="129812419260000000" />
+<file name="tNG_FormValidation.class.php" server="//SPARTAKUS/sindicatos/" local="129812419284242450" remote="129812419280000000" />
+<file name="tNG_DynamicThumbnail.class.php" server="//SPARTAKUS/sindicatos/" local="129812419395673940" remote="129812419390000000" />
+<file name="tNG_FileUpload.class.php" server="//SPARTAKUS/sindicatos/" local="129812419396616050" remote="129812419390000000" />
+<file name="tNG_FileDelete.class.php" server="//SPARTAKUS/sindicatos/" local="129812419395932980" remote="129812419390000000" />
+<file name="tNG_ImageUpload.class.php" server="//SPARTAKUS/sindicatos/" local="129812419396883060" remote="129812419390000000" />
+<file name="tNG_MFileUpload.class.php" server="//SPARTAKUS/sindicatos/" local="129812419397260580" remote="129812419390000000" />
+<file name="tNG_TidyContent.inc.php" server="//SPARTAKUS/sindicatos/" local="129677284380000000" remote="129677284380000000" />
+<file name="tNG_SetOrderField.class.php" server="//SPARTAKUS/sindicatos/" local="129812419359055600" remote="129812419350000000" />
+<file name="tNG_RestrictAccess.class.php" server="//SPARTAKUS/sindicatos/" local="129812419307218690" remote="129812419300000000" />
+<file name="tNG_Logout.class.php" server="//SPARTAKUS/sindicatos/" local="129812419306950930" remote="129812419300000000" />
+<file name="tNG_UserLoggedIn.class.php" server="//SPARTAKUS/sindicatos/" local="129812419307576110" remote="129812419300000000" />
+</dwsync>

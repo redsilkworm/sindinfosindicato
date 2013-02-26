@@ -1,0 +1,115 @@
+/* Layout Padrao*/
+a{
+color:#fff;
+font-weight:bolder;
+text-decoration:none;
+}
+#clear{
+	
+}
+html, body{
+margin::0 auto;
+padding:0;
+}
+html{
+background:url(../images/background.gif) repeat-y;
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+font-size:small;
+color:#ccc;
+}
+
+#geral{
+width:1000px;
+margin:0 auto;
+min-height:500px;
+border:1px solid #ccc;
+background:url(../images/geral.png);
+}
+.topmenu{
+border:none;
+text-align:center;
+background:rgb(51,153,255);
+color:#fff;
+}
+.topmenu ul{
+padding:0;
+margin:0;
+width:100%;
+list-style:none;
+text-align:center;
+}
+.topmenu ul li{
+display:inline;
+}
+.busca{
+text-align:right;
+margin:0;
+padding:3px 25px 0 0;
+border:none;
+backgropund:#1A7FBF;
+}
+#cabecalho{
+width:1000px;
+height:160px;
+margin:0;
+padding:0;
+backgropund:#1A7FBF;
+}
+.logomarca{
+width:300px;
+height:160px;
+float:left;
+}
+.logomarca h1{
+margin:0;
+padding:0;
+}
+.logomarca h1 a{
+text-indent:-5000em;
+overflow:hidden;
+width:300px;
+height:160px;
+background:url(../images/logosindinfo.png) no-repeat center center;
+display:block;
+border:none;
+}
+.slogan{
+float:left;
+width:700px;
+height:130px;
+background: url(../images/slogan.png);
+background-position: -20px -10px;
+}
+.slogan h3{
+margin:0;
+padding:0;
+font-size: 30px;
+Color:#fff;
+text-align:center;
+}
+#zoom{
+text-align:right;
+clear: both;
+}
+#zoom .makeMeAccessible_zoom{
+float:right;
+width:100%;
+background:rgb(51,153,255);
+}
+#breadcrumbs{
+clear: both;
+background:rgb(70,152,209);
+color:#fff;
+text-indent: 30px;
+margin:0 0 5px 0;
+}
+#tronco{
+border:none;
+}
+#barralateral{
+margin:0;
+padding:0;
+width:230px;
+min-height:500px;
+float:left;
+}

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rs_cnae" value="name:cnae_id;datatype:int,name:cnae_secao;datatype:string,name:cnae_divisao;datatype:int,name:cnae_grupo;datatype:string,name:cnae_classe;datatype:string,name:cnae_denominacao;datatype:blob" />
+</info>

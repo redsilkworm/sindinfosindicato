@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<install type="template" version="1.5">
+  <name>Sindicatos - Default</name>
+  <creationDate>2011-11-01</creationDate>
+  <version>1.0</version>
+  <author>Euflavio Rodrigo da Silva Satiro</author>
+  <authorUrl>http://www.blinfo.com.br</authorUrl>
+  <description>Tema para os Sindicatos - FINDES - CAS</description>
+  <files>
+    <filename>index.html</filename>
+    <filename>index.php</filename>
+    <filename>templateDetails.xml</filename>
+  </files>
+  <css>
+    <filename>css/template.css</filename>
+  </css>
+  <positions>
+        <position>banner1</position>
+        <position>banner2</position>
+        <position>banner3</position>
+        <position>empresa</position>
+        <position>rodape</position>
+        <position>left</position>
+        <position>right</position>
+        <position>top1</position>
+        <position>top2</position>
+        <position>top3</position>
+        <position>user1</position>
+        <position>user2</position>
+        <position>user3</position>
+        <position>user4</position>
+        <position>user5</position>
+        <position>user6</position>
+        <position>user7</position>
+        <position>user8</position>
+        <position>user9</position>
+        <position>bottom</position>
+        <position>bottom2</position>
+        <position>syndicate</position>
+  </positions>
+</install>

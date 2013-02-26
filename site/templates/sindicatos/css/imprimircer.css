@@ -1,0 +1,33 @@
+
+#geral{
+width:1024px;
+margin: auto;
+/*border:1px dashed #000;*/
+}
+
+
+body{
+width:1024px;
+margin: auto;
+}
+
+#table{
+margin: 0 auto;
+text-align: center;
+font-size: 14px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+#cabecalho{
+border-bottom:1px dotted black;
+margin:0;
+padding-bottom: 2px;
+}
+
+#foot{
+width:1024px;
+margin: auto;
+/*	border:1px dashed #000;*/
+position: fixed;
+bottom:0;
+}

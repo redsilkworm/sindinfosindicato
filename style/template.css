@@ -1,0 +1,61 @@
+#cor{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #6A8AAE;
+}
+
+#title1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #0B1862;
+}
+
+#assoc{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 14px;
+color: #1F497D;	
+}
+
+#titulos{
+	font-family: Arial;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold;
+	color: #003;
+}
+
+#table{
+	font-family: Arial;
+	font-size: 13px;
+	float: left;
+	color: #2B617D;
+	text-align: justify;
+}
+
+#voltar{
+margin: 0 160px 0 160px;
+}
+.subt {
+	font-family: Arial;
+	font-size: 14px;
+	color: #003;
+}
+.subt {
+	font-family: Arial;
+	font-size: 14px;
+	color: #003;
+}
+.subt {
+}
+.frames #consulta #form1 label {
+	color: #1F497D;
+}
+.bold {
+	font-weight: bold;
+	color: #1F497D;
+}
+
+.title1 {
+	color: #0B1862;
+}
